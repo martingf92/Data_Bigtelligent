@@ -1,0 +1,15 @@
+# Archivos y carpetas a ignorar
+salida/
+*.zip
+*.pdf
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+# Archivos de configuración de VSCode
+.vscode/
